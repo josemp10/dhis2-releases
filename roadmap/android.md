@@ -33,7 +33,10 @@
 **Development**
 
 -   Data Entry
-    -   [Support file value type](https://jira.dhis2.org/browse/ANDROAPP-1992)
+    -   [Improve Data Sets Screen] (https://dhis2.atlassian.net/browse/ANDROAPP-2550)
+    -   [Redesign the age field input] (https://dhis2.atlassian.net/browse/ANDROAPP-4523)
+    -   [Add the "+" button for create events on TEI dashboard always visible] (https://dhis2.atlassian.net/browse/ANDROAPP-4524)
+    -  
 
 -   Stability and Performance
     -   [Option to sync ASA](https://jira.dhis2.org/browse/ANDROAPP-2959)
@@ -100,6 +103,8 @@
 
 ### 2.40 / 2.8
 
+-   Data entry
+    -   [Support file value type](https://jira.dhis2.org/browse/ANDROAPP-1992)
 -   Offline Analytics
     -   [Evolve based on use and feedback from the community](https://jira.dhis2.org/browse/ANDROAPP-2557)
 
